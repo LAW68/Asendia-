@@ -1,0 +1,4 @@
+Please Create the following folders on your C drive
+
+C:\OrdersImport\Input
+C:\OrdersImport\Logs
