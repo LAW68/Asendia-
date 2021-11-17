@@ -1,4 +1,4 @@
 Please Create the following folders on your C drive
 
-C:\OrdersImport\Input
+C:\OrdersImport\Input  (Drop folder for CandidateTest_ManifestExample.csv)
 C:\OrdersImport\Logs
